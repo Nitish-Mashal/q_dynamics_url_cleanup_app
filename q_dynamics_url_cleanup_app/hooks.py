@@ -35,7 +35,7 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/q_dynamics_url_cleanup_app/css/q_dynamics_url_cleanup_app.css"
-# app_include_js = "/assets/q_dynamics_url_cleanup_app/js/q_dynamics_url_cleanup_app.js"
+app_include_js = "/assets/q_dynamics_url_cleanup_app/js/logout_redirect_cleanup.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/q_dynamics_url_cleanup_app/css/q_dynamics_url_cleanup_app.css"
